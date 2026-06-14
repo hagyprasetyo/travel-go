@@ -48,8 +48,6 @@ Proyek ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Berorientasi Obje
 
 |------------------------------|------------|
 
-| ADITYA REYNARD RHEZNANDIKA   | 2802673371 |
-
 | NAJIB FAQIH FATHAN           | 2802669664 |
 
 | LUNA ZHAFIRA                 | 2802687521 |
